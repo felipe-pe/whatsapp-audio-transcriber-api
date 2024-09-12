@@ -1,0 +1,24 @@
+# Dependências do Node.js
+node_modules/
+
+# Tokens da sessão do WhatsApp
+tokens/
+
+# Áudios e transcrições temporárias
+audios/
+transcriptions/
+
+# Banco de dados SQLite
+transcriptions.db
+
+# Arquivos de log e temporários
+*.log
+*.tmp
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
+
+# Arquivo de configuração do editor
+.vscode/
+.idea/
